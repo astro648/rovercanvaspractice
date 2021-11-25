@@ -1,0 +1,1718 @@
+​ 2
+​ background_image = nasa_image_3.jpg
+nasa_image_3.jpg:1  Failed to load resource: the server responded with a status of 404 (Not Found)
+favicon.ico:1  Failed to load resource: the server responded with a status of 404 (Not Found)
+​ 17
+​ 39
+​ when right arrow is pressed, x = 20, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 30, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 40, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 50, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 60, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 60, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 87
+​ 65
+​ 83
+​ 68
+​ 65
+​ 87
+​ 68
+​ 38
+​ when up arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 40
+​ when down arrow is pressed, x = 50, y = 70
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 70
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 70
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 70
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 60, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 50, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 50, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 50, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 40
+​ when down arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 60, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 37
+​ when right arrow is pressed, x = 50, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 40
+​ when down arrow is pressed, x = 50, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 39
+​ when right arrow is pressed, x = 60, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 70, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 40
+​ when down arrow is pressed, x = 70, y = 60
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 70, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 80, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 37
+​ when right arrow is pressed, x = 70, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 70, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 40
+​ when down arrow is pressed, x = 80, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 39
+​ when right arrow is pressed, x = 90, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 90, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 80, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 37
+​ when right arrow is pressed, x = 70, y = 50
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 70, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 90, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 37
+​ when right arrow is pressed, x = 80, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 80, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 37
+​ when right arrow is pressed, x = 70, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 70, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 38
+​ when up arrow is pressed, x = 70, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 80, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 80, y = -10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 39
+​ when right arrow is pressed, x = 90, y = -10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 39
+​ when right arrow is pressed, x = 100, y = -10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ up
+​ 38
+​ up
+​ 39
+​ when right arrow is pressed, x = 110, y = -10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 38
+​ when up arrow is pressed, x = 110, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 38
+​ when up arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 38
+​ when up arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 38
+​ when up arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+​ 40
+​ when down arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+​ 123
+​ 38
+​ when up arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 38
+​ when up arrow is pressed, x = 100, y = -10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 38
+​ up
+​ 40
+​ when down arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 40
+​ when down arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 40
+​ when down arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 38
+​ when up arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 40
+​ when down arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 38
+​ when up arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 38
+​ when up arrow is pressed, x = 90, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 39
+​ when right arrow is pressed, x = 100, y = 0
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 40
+​ when down arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 37
+​ when right arrow is pressed, x = 80, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 40
+​ when down arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 37
+​ when right arrow is pressed, x = 80, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 40
+​ when down arrow is pressed, x = 90, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 37
+​ when right arrow is pressed, x = 80, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 40
+​ when down arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 80, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 39
+​ when right arrow is pressed, x = 100, y = 40
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 38
+​ when up arrow is pressed, x = 100, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 90, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 38
+​ when up arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 39
+​ when right arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 40
+​ when down arrow is pressed, x = 110, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 38
+​ when up arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 110, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 40
+​ when down arrow is pressed, x = 100, y = 30
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+​ 38
+​ when up arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 37
+​ when right arrow is pressed, x = 80, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 37
+​ when right arrow is pressed, x = 90, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 39
+​ when right arrow is pressed, x = 100, y = 20
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+​ 38
+​ when up arrow is pressed, x = 100, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+​ 37
+​ when right arrow is pressed, x = 90, y = 10
+main.js:29  Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+​ 38
+main.js:83 when up arrow is pressed, x = 90, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 100, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 90, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 100, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 38
+main.js:83 when up arrow is pressed, x = 100, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 90, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 100, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 110, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 100, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 110, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 100, y = -10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 38
+main.js:46 up
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 100, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 110, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 100, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 100, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 110, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 110, y = 20
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 38
+main.js:83 when up arrow is pressed, x = 110, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 120, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 110, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 38
+main.js:83 when up arrow is pressed, x = 110, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 120, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 130, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 130, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 38
+main.js:83 when up arrow is pressed, x = 130, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at up (http://127.0.0.1:5500/main.js:84:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:45:4)
+uploadBackground @ main.js:29
+up @ main.js:84
+my_keydown @ main.js:45
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 140, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 130, y = 0
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 130, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 140, y = 10
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 140, y = 20
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 140, y = 30
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 150, y = 30
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 40
+main.js:91 when down arrow is pressed, x = 150, y = 40
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at down (http://127.0.0.1:5500/main.js:92:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:50:4)
+uploadBackground @ main.js:29
+down @ main.js:92
+my_keydown @ main.js:50
+main.js:42 39
+main.js:67 when right arrow is pressed, x = 160, y = 40
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at right (http://127.0.0.1:5500/main.js:68:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:60:4)
+uploadBackground @ main.js:29
+right @ main.js:68
+my_keydown @ main.js:60
+main.js:42 37
+main.js:75 when right arrow is pressed, x = 150, y = 40
+main.js:29 
+        
+       Uncaught DOMException: Failed to execute 'drawImage' on 'CanvasRenderingContext2D': The HTMLImageElement provided is in the 'broken' state.
+    at uploadBackground (http://127.0.0.1:5500/main.js:29:6)
+    at left (http://127.0.0.1:5500/main.js:76:9)
+    at my_keydown (http://127.0.0.1:5500/main.js:55:4)
+uploadBackground @ main.js:29
+left @ main.js:76
+my_keydown @ main.js:55
+main.js:42 123
